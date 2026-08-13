@@ -1,7 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/stsds/stsds.r-universe.dev
 	branch = HEAD
-[submodule "MPCR"]
-	path = MPCR
-	url = https://github.com/stsds/mpcr
+[submodule "RCOMPSs"]
+	path = RCOMPSs
+	url = https://github.com/stsds/RCOMPSs
